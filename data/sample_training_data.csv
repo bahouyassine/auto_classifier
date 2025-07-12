@@ -1,0 +1,261 @@
+text,word_count,has_exclamation,has_question,sentiment_category
+Not sure what to think about this headphones. It freezes up and I'm concerned about the quality.,17,False,False,concerned
+Happy enough with this tablet. It responds as expected and the display is adequate.,14,False,False,satisfied
+Seriously annoyed with this speaker. It keeps doesn't respond and I've wasted hours trying to fix it.,17,False,False,frustrated
+"I really wanted this mouse to work well, but it makes strange noises. Such a disappointment.",16,False,False,disappointed
+This smartphone fell short of my expectations. The performance doesn't respond and I was hoping for more.,17,False,False,disappointed
+This keyboard is amazing to type on! The keys feel so responsive and smooth!,14,True,False,enthusiastic
+This smartwatch is exceptional! It processes wonderfully and the design is truly impressive!,13,True,False,enthusiastic
+"I'm so useless with mouse. Every time I use it, it makes strange noises. This is ridiculous!",17,True,False,frustrated
+Seriously annoyed with this smartwatch. It keeps freezes up and I've wasted hours trying to fix it.,17,False,False,frustrated
+Good quality laptop. It runs smoothly and the durability is satisfactory.,11,False,False,satisfied
+Good quality smartphone. It processes smoothly and the software is satisfactory.,11,False,False,satisfied
+This camera is phenomenal! The battery life processes brilliantly and I couldn't be happier!,14,True,False,enthusiastic
+Pretty happy with this laptop. It operates reliably and the display is decent.,13,False,False,satisfied
+This tablet has me worried. It crashes frequently sometimes and I'm concerned about its reliability.,15,False,False,concerned
+I'm fed up with this mouse. The design is broken and it crashes frequently constantly.,15,False,False,frustrated
+Outstanding speaker! The durability works excellently and I'm absolutely delighted!,10,True,False,enthusiastic
+I have some concerns about this monitor. The durability freezes up and I'm wondering if others have this issue.,19,False,False,concerned
+Incredible headphones! It functions superbly and the design is absolutely perfect!,11,True,False,enthusiastic
+This smartphone is working out well. The battery life runs and I'm satisfied with it.,15,False,False,satisfied
+This laptop has me worried. It makes strange noises sometimes and I'm concerned about its reliability.,16,False,False,concerned
+Incredible laptop! It runs superbly and the performance is absolutely perfect!,11,True,False,enthusiastic
+Not entirely sure about this tablet. It has connectivity issues occasionally and I'm concerned about long-term reliability.,17,False,False,concerned
+I'm blown away by this keyboard! The design processes magnificently and it's beyond amazing!,14,True,False,enthusiastic
+I'm a bit anxious about this monitor. The user interface freezes up and I'm not sure if it's supposed to do that.,22,False,False,concerned
+"I had high hopes for this smartwatch, but unfortunately it makes strange noises. Expected much better quality.",17,False,False,disappointed
+Happy enough with this smartwatch. It functions as expected and the software is adequate.,14,False,False,satisfied
+This tablet works well for my needs. The software operates and I'm content with the purchase.,16,False,False,satisfied
+This tablet fell short of my expectations. The display overheats and I was hoping for more.,16,False,False,disappointed
+Not entirely sure about this monitor. It makes strange noises occasionally and I'm concerned about long-term reliability.,17,False,False,concerned
+I'm thrilled with this keyboard! The build quality handles tasks beautifully and exceeded all expectations!,15,True,False,enthusiastic
+Absolutely love this smartphone! The sound quality operates amazingly and it's exactly what I needed!,15,True,False,enthusiastic
+Something seems off with this speaker. It makes strange noises and I'm concerned about whether it's defective.,17,False,False,concerned
+I'm quite disappointed with this speaker. It doesn't respond and doesn't live up to the reviews.,16,False,False,disappointed
+This camera does what it's supposed to do. The software handles tasks and I'm satisfied overall.,16,False,False,satisfied
+This camera is driving me crazy! It won't charge it properly and keeps drains battery quickly.,16,True,False,frustrated
+Seriously annoyed with this laptop. It keeps overheats and I've wasted days trying to fix it.,16,False,False,frustrated
+"I'm so ridiculous with speaker. Every time I operate it, it freezes up. This is ridiculous!",16,True,False,frustrated
+I'm quite disappointed with this tablet. It has connectivity issues and doesn't live up to the reviews.,17,False,False,disappointed
+Incredible laptop! It operates superbly and the design is absolutely perfect!,11,True,False,enthusiastic
+I'm a bit anxious about this smartphone. The sound quality doesn't respond and I'm not sure if it's supposed to do that.,22,False,False,concerned
+"Really wanted to love this monitor, but it freezes up. Such a shame because the battery life seemed promising.",19,False,False,disappointed
+Pretty happy with this tablet. It processes reliably and the display is decent.,13,False,False,satisfied
+This smartwatch is remarkable! It handles tasks spectacularly and the durability is simply amazing!,14,True,False,enthusiastic
+I'm uncertain about this camera. The performance stops working and I'm worried it might get worse.,16,False,False,concerned
+Good quality mouse. It processes smoothly and the performance is satisfactory.,11,False,False,satisfied
+I'm pleased with this smartwatch. The connectivity functions and it meets my expectations.,13,False,False,satisfied
+This tablet is remarkable! It responds spectacularly and the design is simply amazing!,13,True,False,enthusiastic
+Not sure what to think about this camera. It drains battery quickly and I'm concerned about the quality.,18,False,False,concerned
+I'm losing my patience with this headphones. It overheats and the durability is useless.,14,False,False,frustrated
+Good monitor for the price. It runs consistently and the software works fine.,13,False,False,satisfied
+I'm quite disappointed with this monitor. It makes strange noises and doesn't live up to the reviews.,17,False,False,disappointed
+I'm blown away by this smartwatch! The durability performs magnificently and it's beyond amazing!,14,True,False,enthusiastic
+This monitor is working out well. The display works and I'm satisfied with it.,14,False,False,satisfied
+"Unfortunately, this tablet didn't meet my expectations. It drains battery quickly and I'm quite disappointed.",15,False,False,disappointed
+I can't believe how horrible this keyboard is. The design doesn't work and makes strange noises.,16,False,False,frustrated
+Happy enough with this tablet. It functions as expected and the connectivity is adequate.,14,False,False,satisfied
+This is infuriating! The headphones freezes up every single time I try to set it up.,16,True,False,frustrated
+I'm fed up with this smartwatch. The design is broken and it stops working constantly.,15,False,False,frustrated
+This is infuriating! The smartphone drains battery quickly every single time I try to use it.,16,True,False,frustrated
+Not entirely sure about this monitor. It drains battery quickly occasionally and I'm concerned about long-term reliability.,17,False,False,concerned
+This headphones is phenomenal! The sound quality operates brilliantly and I couldn't be happier!,14,True,False,enthusiastic
+I'm losing my patience with this camera. It drains battery quickly and the durability is useless.,16,False,False,frustrated
+I'm losing my patience with this monitor. It overheats and the sound quality is useless.,15,False,False,frustrated
+Good quality keyboard. It works smoothly and the build quality is satisfactory.,12,False,False,satisfied
+This laptop is absolutely infuriating! I've been trying to use it for days and it just won't work properly.,19,True,False,frustrated
+I'm a bit worried about this speaker. The user interface seems to stops working sometimes. Not sure if this is normal?,21,False,True,concerned
+This speaker is fantastic! It performs perfectly and the durability is incredible!,12,True,False,enthusiastic
+This camera does what it's supposed to do. The connectivity operates and I'm satisfied overall.,15,False,False,satisfied
+I have some concerns about this tablet. The software doesn't respond and I'm wondering if others have this issue.,19,False,False,concerned
+I'm blown away by this smartwatch! The user interface responds magnificently and it's beyond amazing!,15,True,False,enthusiastic
+This speaker works well for my needs. The battery life functions and I'm content with the purchase.,17,False,False,satisfied
+I'm a bit anxious about this mouse. The durability makes strange noises and I'm not sure if it's supposed to do that.,22,False,False,concerned
+"Had such high hopes, but this mouse crashes frequently. Really disappointed with the quality.",14,False,False,disappointed
+What a waste of money! This smartwatch freezes up constantly and the display is completely useless.,16,True,False,frustrated
+This smartphone is working out well. The display processes and I'm satisfied with it.,14,False,False,satisfied
+Seriously annoyed with this smartphone. It keeps has connectivity issues and I've wasted weeks trying to fix it.,18,False,False,frustrated
+Something seems off with this keyboard. It overheats and I'm concerned about whether it's defective.,15,False,False,concerned
+"I really wanted this tablet to work well, but it drains battery quickly. Such a disappointment.",16,False,False,disappointed
+This speaker is driving me crazy! It won't connect it properly and keeps stops working.,15,True,False,frustrated
+I'm thrilled with this tablet! The software operates beautifully and exceeded all expectations!,13,True,False,enthusiastic
+Not sure if I'm happy with this camera. It takes good photos but feels cheap.,15,False,False,concerned
+Incredible camera! It runs superbly and the connectivity is absolutely perfect!,11,True,False,enthusiastic
+I'm quite disappointed with this laptop. It stops working and doesn't live up to the reviews.,16,False,False,disappointed
+I can't believe how infuriating this laptop is. The display doesn't work and freezes up.,15,False,False,frustrated
+Something seems off with this camera. It drains battery quickly and I'm concerned about whether it's defective.,17,False,False,concerned
+I guess this smartphone is okay. The battery life could be better but it's not terrible.,16,False,False,concerned
+I'm blown away by this smartwatch! The sound quality handles tasks magnificently and it's beyond amazing!,16,True,False,enthusiastic
+"I had high hopes for this camera, but unfortunately it has connectivity issues. Expected much better quality.",17,False,False,disappointed
+This camera let me down. I was excited about the display but it doesn't respond.,15,False,False,disappointed
+This smartphone has me worried. It makes strange noises sometimes and I'm concerned about its reliability.,16,False,False,concerned
+This speaker is solid. It functions well and the connectivity is reliable.,12,False,False,satisfied
+What kind of keyboard stops working right out of the box? This is absolutely infuriating!,15,True,True,frustrated
+Not sure what to think about this headphones. It has connectivity issues and I'm concerned about the quality.,18,False,False,concerned
+This smartwatch does what it's supposed to do. The user interface operates and I'm satisfied overall.,16,False,False,satisfied
+This laptop has me worried. It has connectivity issues sometimes and I'm concerned about its reliability.,16,False,False,concerned
+I can't believe how useless this camera is. The battery life doesn't work and makes strange noises.,17,False,False,frustrated
+I'm blown away by this laptop! The performance functions magnificently and it's beyond amazing!,14,True,False,enthusiastic
+This keyboard is remarkable! It runs spectacularly and the sound quality is simply amazing!,14,True,False,enthusiastic
+I'm blown away by this keyboard! The battery life operates magnificently and it's beyond amazing!,15,True,False,enthusiastic
+Not entirely sure about this camera. It stops working occasionally and I'm concerned about long-term reliability.,16,False,False,concerned
+Expected so much more from this tablet. The design drains battery quickly and it's just not what I hoped for.,20,False,False,disappointed
+Incredible tablet! It processes superbly and the display is absolutely perfect!,11,True,False,enthusiastic
+"I really wanted this monitor to work well, but it crashes frequently. Such a disappointment.",15,False,False,disappointed
+I'm quite disappointed with this tablet. It overheats and doesn't live up to the reviews.,15,False,False,disappointed
+I have some concerns about this laptop. The software drains battery quickly and I'm wondering if others have this issue.,20,False,False,concerned
+This speaker is driving me crazy! It won't operate it properly and keeps has connectivity issues.,16,True,False,frustrated
+This speaker does what it's supposed to do. The durability performs and I'm satisfied overall.,15,False,False,satisfied
+This tablet is fantastic! It operates perfectly and the performance is incredible!,12,True,False,enthusiastic
+What an amazing monitor! It functions flawlessly and the display is outstanding!,12,True,False,enthusiastic
+Absolutely love this mouse! The durability functions amazingly and it's exactly what I needed!,14,True,False,enthusiastic
+This is infuriating! The mouse makes strange noises every single time I try to connect it.,16,True,False,frustrated
+This is infuriating! The tablet drains battery quickly every single time I try to operate it.,16,True,False,frustrated
+"Had such high hopes, but this keyboard stops working. Really disappointed with the quality.",14,False,False,disappointed
+I have some concerns about this smartphone. The battery life doesn't respond and I'm wondering if others have this issue.,20,False,False,concerned
+Good quality speaker. It operates smoothly and the user interface is satisfactory.,12,False,False,satisfied
+I'm quite disappointed with this laptop. It freezes up and doesn't live up to the reviews.,16,False,False,disappointed
+This keyboard serves its purpose well. The sound quality handles tasks and I'm content.,14,False,False,satisfied
+This monitor does what it's supposed to do. The design operates and I'm satisfied overall.,15,False,False,satisfied
+Not entirely sure about this smartphone. It has connectivity issues occasionally and I'm concerned about long-term reliability.,17,False,False,concerned
+This monitor fell short of my expectations. The sound quality makes strange noises and I was hoping for more.,19,False,False,disappointed
+This tablet is solid. It handles tasks well and the performance is reliable.,13,False,False,satisfied
+What a waste of money! This speaker overheats constantly and the battery life is completely infuriating.,16,True,False,frustrated
+"Had such high hopes, but this smartwatch overheats. Really disappointed with the quality.",13,False,False,disappointed
+I'm quite disappointed with this tablet. It crashes frequently and doesn't live up to the reviews.,16,False,False,disappointed
+I have some concerns about this smartwatch. The performance overheats and I'm wondering if others have this issue.,18,False,False,concerned
+What kind of keyboard stops working right out of the box? This is absolutely terrible!,15,True,True,frustrated
+Pretty happy with this headphones. It functions reliably and the user interface is decent.,14,False,False,satisfied
+This laptop serves its purpose well. The design handles tasks and I'm content.,13,False,False,satisfied
+This tablet is alright I suppose. The display is nice but it's a bit slow.,15,False,False,concerned
+This camera is solid. It operates well and the battery life is reliable.,13,False,False,satisfied
+I'm a bit anxious about this smartphone. The battery life drains battery quickly and I'm not sure if it's supposed to do that.,23,False,False,concerned
+The headphones are decent enough. Sound quality is acceptable for the price.,12,False,False,satisfied
+Not sure what to think about this mouse. It drains battery quickly and I'm concerned about the quality.,18,False,False,concerned
+This speaker is pretty good actually. Sound is clear and it's well built.,13,False,False,satisfied
+I can't believe how annoying this tablet is. The durability doesn't work and overheats.,14,False,False,frustrated
+This laptop is solid. It responds well and the durability is reliable.,12,False,False,satisfied
+This tablet does what it's supposed to do. The performance operates and I'm satisfied overall.,15,False,False,satisfied
+Pretty happy with this tablet. It processes reliably and the build quality is decent.,14,False,False,satisfied
+I'm pleased with this smartwatch. The display operates and it meets my expectations.,13,False,False,satisfied
+What an amazing monitor! It functions flawlessly and the battery life is outstanding!,13,True,False,enthusiastic
+Something seems off with this mouse. It stops working and I'm concerned about whether it's defective.,16,False,False,concerned
+I'm kind of excited about this monitor! The colors are really vibrant and crisp!,14,True,False,enthusiastic
+This tablet is not what I expected. The sound quality stops working and I'm left feeling disappointed.,17,False,False,disappointed
+This smartphone has me worried. It has connectivity issues sometimes and I'm concerned about its reliability.,16,False,False,concerned
+This monitor is exceptional! It performs wonderfully and the sound quality is truly impressive!,14,True,False,enthusiastic
+This keyboard let me down. I was excited about the display but it has connectivity issues.,16,False,False,disappointed
+Not entirely sure about this speaker. It stops working occasionally and I'm concerned about long-term reliability.,16,False,False,concerned
+Something seems off with this keyboard. It doesn't respond and I'm concerned about whether it's defective.,16,False,False,concerned
+I can't believe how ridiculous this laptop is. The battery life doesn't work and stops working.,16,False,False,frustrated
+"I'm so annoying with speaker. Every time I connect it, it freezes up. This is ridiculous!",16,True,False,frustrated
+This speaker is exceptional! It handles tasks wonderfully and the design is truly impressive!,14,True,False,enthusiastic
+Happy enough with this smartphone. It processes as expected and the design is adequate.,14,False,False,satisfied
+I'm thrilled with this monitor! The display runs beautifully and exceeded all expectations!,13,True,False,enthusiastic
+"Had such high hopes, but this smartwatch makes strange noises. Really disappointed with the quality.",15,False,False,disappointed
+I can't believe how horrible this tablet is. The display doesn't work and drains battery quickly.,16,False,False,frustrated
+"Really wanted to love this keyboard, but it overheats. Such a shame because the build quality seemed promising.",18,False,False,disappointed
+This monitor is not what I expected. The sound quality overheats and I'm left feeling disappointed.,16,False,False,disappointed
+This is infuriating! The smartphone drains battery quickly every single time I try to configure it.,16,True,False,frustrated
+What an amazing headphones! It performs flawlessly and the design is outstanding!,12,True,False,enthusiastic
+This camera serves its purpose well. The connectivity processes and I'm content.,12,False,False,satisfied
+"I really wanted this speaker to work well, but it crashes frequently. Such a disappointment.",15,False,False,disappointed
+"Unfortunately, this monitor didn't meet my expectations. It freezes up and I'm quite disappointed.",14,False,False,disappointed
+This headphones does what it's supposed to do. The sound quality handles tasks and I'm satisfied overall.,17,False,False,satisfied
+Seriously annoyed with this keyboard. It keeps drains battery quickly and I've wasted days trying to fix it.,18,False,False,frustrated
+Seriously annoyed with this keyboard. It keeps crashes frequently and I've wasted hours trying to fix it.,17,False,False,frustrated
+I have some concerns about this laptop. The battery life doesn't respond and I'm wondering if others have this issue.,20,False,False,concerned
+This headphones is absolutely infuriating! I've been trying to charge it for days and it just won't work properly.,19,True,False,frustrated
+"Unfortunately, this mouse didn't meet my expectations. It doesn't respond and I'm quite disappointed.",14,False,False,disappointed
+This laptop is absolutely horrible! I've been trying to operate it for hours and it just won't work properly.,19,True,False,frustrated
+Not sure what to think about this keyboard. It overheats and I'm concerned about the quality.,16,False,False,concerned
+Not sure what to think about this monitor. It drains battery quickly and I'm concerned about the quality.,18,False,False,concerned
+Not entirely sure about this monitor. It crashes frequently occasionally and I'm concerned about long-term reliability.,16,False,False,concerned
+Happy enough with this laptop. It processes as expected and the user interface is adequate.,15,False,False,satisfied
+This smartphone let me down. I was excited about the design but it has connectivity issues.,16,False,False,disappointed
+What kind of mouse stops working right out of the box? This is absolutely awful!,15,True,True,frustrated
+Incredible smartwatch! It performs superbly and the durability is absolutely perfect!,11,True,False,enthusiastic
+"I'm so useless with smartphone. Every time I connect it, it drains battery quickly. This is ridiculous!",17,True,False,frustrated
+This keyboard fell short of my expectations. The design drains battery quickly and I was hoping for more.,18,False,False,disappointed
+I can't believe how annoying this headphones is. The performance doesn't work and doesn't respond.,15,False,False,frustrated
+Absolutely love this tablet! The design functions amazingly and it's exactly what I needed!,14,True,False,enthusiastic
+I'm fed up with this tablet. The display is broken and it freezes up constantly.,15,False,False,frustrated
+"Really wanted to love this speaker, but it crashes frequently. Such a shame because the design seemed promising.",18,False,False,disappointed
+I'm losing my patience with this tablet. It overheats and the software is useless.,14,False,False,frustrated
+What an amazing mouse! It runs flawlessly and the performance is outstanding!,12,True,False,enthusiastic
+I'm fed up with this smartphone. The design is broken and it drains battery quickly constantly.,16,False,False,frustrated
+I'm quite disappointed with this camera. It has connectivity issues and doesn't live up to the reviews.,17,False,False,disappointed
+I have some concerns about this speaker. The durability stops working and I'm wondering if others have this issue.,19,False,False,concerned
+This smartphone is exceptional! It functions wonderfully and the connectivity is truly impressive!,13,True,False,enthusiastic
+I'm thrilled with this laptop! The build quality operates beautifully and exceeded all expectations!,14,True,False,enthusiastic
+This smartphone is working out well. The display responds and I'm satisfied with it.,14,False,False,satisfied
+"Unfortunately, this headphones didn't meet my expectations. It doesn't respond and I'm quite disappointed.",14,False,False,disappointed
+I'm losing my patience with this speaker. It drains battery quickly and the software is useless.,16,False,False,frustrated
+This speaker let me down. I was excited about the software but it makes strange noises.,16,False,False,disappointed
+"Had such high hopes, but this smartphone freezes up. Really disappointed with the quality.",14,False,False,disappointed
+This mouse fell short of my expectations. The user interface stops working and I was hoping for more.,18,False,False,disappointed
+I have some concerns about this laptop. The design freezes up and I'm wondering if others have this issue.,19,False,False,concerned
+Happy enough with this keyboard. It runs as expected and the software is adequate.,14,False,False,satisfied
+This camera is exceptional! It operates wonderfully and the performance is truly impressive!,13,True,False,enthusiastic
+This smartwatch is exceptional! It handles tasks wonderfully and the connectivity is truly impressive!,14,True,False,enthusiastic
+Good quality keyboard. It processes smoothly and the software is satisfactory.,11,False,False,satisfied
+This mouse is remarkable! It runs spectacularly and the connectivity is simply amazing!,13,True,False,enthusiastic
+"Really wanted to love this camera, but it drains battery quickly. Such a shame because the display seemed promising.",19,False,False,disappointed
+This is infuriating! The laptop has connectivity issues every single time I try to set it up.,17,True,False,frustrated
+"I really wanted this tablet to work well, but it overheats. Such a disappointment.",14,False,False,disappointed
+This speaker has me worried. It doesn't respond sometimes and I'm concerned about its reliability.,15,False,False,concerned
+This laptop is solid. It functions well and the performance is reliable.,12,False,False,satisfied
+What kind of headphones drains battery quickly right out of the box? This is absolutely horrible!,16,True,True,frustrated
+I'm a bit anxious about this tablet. The user interface makes strange noises and I'm not sure if it's supposed to do that.,23,False,False,concerned
+I can't believe how awful this laptop is. The design doesn't work and crashes frequently.,15,False,False,frustrated
+"This laptop works fine, though I wish the performance was a bit faster.",13,False,False,satisfied
+"Unfortunately, this headphones didn't meet my expectations. It crashes frequently and I'm quite disappointed.",14,False,False,disappointed
+This is infuriating! The smartphone has connectivity issues every single time I try to use it.,16,True,False,frustrated
+"I had high hopes for this camera, but unfortunately it crashes frequently. Expected much better quality.",16,False,False,disappointed
+Good quality laptop. It handles tasks smoothly and the user interface is satisfactory.,13,False,False,satisfied
+I'm blown away by this headphones! The performance performs magnificently and it's beyond amazing!,14,True,False,enthusiastic
+This monitor fell short of my expectations. The design drains battery quickly and I was hoping for more.,18,False,False,disappointed
+Pretty happy with this keyboard. It performs reliably and the connectivity is decent.,13,False,False,satisfied
+What an amazing smartphone! It handles tasks flawlessly and the software is outstanding!,13,True,False,enthusiastic
+This tablet makes me a bit nervous. It makes strange noises sometimes and I'm not sure what to expect.,19,False,False,concerned
+"I had high hopes for this speaker, but unfortunately it freezes up. Expected much better quality.",16,False,False,disappointed
+Incredible smartwatch! It handles tasks superbly and the performance is absolutely perfect!,12,True,False,enthusiastic
+"Really wanted to love this mouse, but it overheats. Such a shame because the build quality seemed promising.",18,False,False,disappointed
+Outstanding monitor! The user interface performs excellently and I'm absolutely delighted!,11,True,False,enthusiastic
+This camera serves its purpose well. The performance functions and I'm content.,12,False,False,satisfied
+What a waste of money! This speaker has connectivity issues constantly and the connectivity is completely pathetic.,17,True,False,frustrated
+I'm a bit anxious about this speaker. The connectivity drains battery quickly and I'm not sure if it's supposed to do that.,22,False,False,concerned
+This laptop is driving me crazy! It won't connect it properly and keeps overheats.,14,True,False,frustrated
+This smartphone does what it's supposed to do. The user interface responds and I'm satisfied overall.,16,False,False,satisfied
+What kind of laptop has connectivity issues right out of the box? This is absolutely horrible!,16,True,True,frustrated
+What kind of camera doesn't respond right out of the box? This is absolutely horrible!,15,True,True,frustrated
+"Really wanted to love this keyboard, but it drains battery quickly. Such a shame because the sound quality seemed promising.",20,False,False,disappointed
+This monitor is working out well. The performance handles tasks and I'm satisfied with it.,15,False,False,satisfied
+"The smartwatch does what it should. Battery life is okay, nothing special.",12,False,False,satisfied
+Incredible tablet! It handles tasks superbly and the user interface is absolutely perfect!,13,True,False,enthusiastic
+Absolutely love this tablet! The performance handles tasks amazingly and it's exactly what I needed!,15,True,False,enthusiastic
+This keyboard does what it's supposed to do. The display runs and I'm satisfied overall.,15,False,False,satisfied
+This camera serves its purpose well. The display works and I'm content.,12,False,False,satisfied
+I'm having doubts about this laptop. The design overheats and I'm not sure if I should keep it.,18,False,False,concerned
+"I really wanted this keyboard to work well, but it doesn't respond. Such a disappointment.",15,False,False,disappointed
+This headphones let me down. I was excited about the user interface but it has connectivity issues.,17,False,False,disappointed
+I'm blown away by this headphones! The user interface processes magnificently and it's beyond amazing!,15,True,False,enthusiastic
+What an amazing camera! It works flawlessly and the user interface is outstanding!,13,True,False,enthusiastic
+I'm pleased with this laptop. The display responds and it meets my expectations.,13,False,False,satisfied
+I'm having doubts about this tablet. The durability doesn't respond and I'm not sure if I should keep it.,19,False,False,concerned
+This camera is working out well. The connectivity functions and I'm satisfied with it.,14,False,False,satisfied
+This mouse is remarkable! It operates spectacularly and the build quality is simply amazing!,14,True,False,enthusiastic
+I'm uncertain about this keyboard. The user interface doesn't respond and I'm worried it might get worse.,17,False,False,concerned
+Expected so much more from this smartwatch. The user interface crashes frequently and it's just not what I hoped for.,20,False,False,disappointed
+I'm thrilled with this monitor! The durability responds beautifully and exceeded all expectations!,13,True,False,enthusiastic
+I'm a bit worried about this smartwatch. The build quality seems to crashes frequently sometimes. Not sure if this is normal?,21,False,True,concerned
+This mouse is fantastic! It operates perfectly and the connectivity is incredible!,12,True,False,enthusiastic
+This monitor has me worried. It stops working sometimes and I'm concerned about its reliability.,15,False,False,concerned
+I'm blown away by this smartwatch! The user interface works magnificently and it's beyond amazing!,15,True,False,enthusiastic
+I have some concerns about this tablet. The battery life freezes up and I'm wondering if others have this issue.,20,False,False,concerned
+"Ugh, this mouse keeps disconnecting randomly. So annoying when I'm working.",11,False,False,frustrated
+I'm uncertain about this headphones. The sound quality has connectivity issues and I'm worried it might get worse.,18,False,False,concerned
+I'm a bit anxious about this camera. The display overheats and I'm not sure if it's supposed to do that.,20,False,False,concerned
+This laptop has me worried. It freezes up sometimes and I'm concerned about its reliability.,15,False,False,concerned
+"I had high hopes for this laptop, but unfortunately it makes strange noises. Expected much better quality.",17,False,False,disappointed
+This smartphone does what it's supposed to do. The display handles tasks and I'm satisfied overall.,16,False,False,satisfied

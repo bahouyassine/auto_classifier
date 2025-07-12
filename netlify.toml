@@ -1,0 +1,15 @@
+[build]
+  command = "pip install -r requirements.txt"
+  publish = "."
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
+
+[[redirects]]
+  from = "/*"
+  to = "/streamlit_llm_evaluator.py"
+  status = 200
+
+[context.production.environment]
+  STREAMLIT_SERVER_PORT = "8501"
+  STREAMLIT_SERVER_ADDRESS = "0.0.0.0"
