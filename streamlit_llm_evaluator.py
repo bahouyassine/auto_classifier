@@ -27,9 +27,9 @@ st.set_page_config(
 )
 
 class LLMEvaluator:
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, model: str = "gpt-4o-mini"):
         self.client = openai.OpenAI(api_key=api_key)
-        self.model = "gpt-4o-mini"
+        self.model = model
         
     def extract_classes_from_data(self, df: pd.DataFrame, target_column: str) -> List[str]:
         """Extract unique classes from the annotated dataset"""
@@ -192,8 +192,33 @@ def main():
             st.warning("Please enter your OpenAI API key to continue.")
             st.stop()
         
-        # Initialize evaluator
-        evaluator = LLMEvaluator(api_key)
+        # GPT Model Selection
+        st.subheader("Model Settings")
+        model_options = {
+            "GPT-4o Mini (Recommended)": "gpt-4o-mini",
+            "GPT-4o": "gpt-4o",
+
+        }
+        
+        selected_model_name = st.selectbox(
+            "Choose GPT Model",
+            options=list(model_options.keys()),
+            index=0,
+            help="Select the GPT model for evaluation. GPT-4o-mini is recommended for cost efficiency."
+        )
+        
+        selected_model = model_options[selected_model_name]
+        
+        # Model info
+        model_info = {
+            "gpt-4o-mini": "💰 Most cost-effective, good performance",
+            "gpt-4o": "⚡ Latest model, excellent performance",
+        }
+        
+        st.info(model_info.get(selected_model, "Selected model"))
+        
+        # Initialize evaluator with selected model
+        evaluator = LLMEvaluator(api_key, selected_model)
         
         st.header("Parameters")
         accuracy_threshold = st.slider("Accuracy Threshold", 0.5, 1.0, 0.8, 0.05)
