@@ -1,6 +1,6 @@
 # LLM Classification Evaluator
 
-A Streamlit application that uses GPT-4o-mini to automatically generate and optimize classification prompts through iterative evaluation.
+This project provides a backend powered by FastAPI together with a minimal React front‑end. It allows you to generate and evaluate classification prompts using OpenAI models.
 
 ## Features
 
@@ -13,45 +13,19 @@ A Streamlit application that uses GPT-4o-mini to automatically generate and opti
 
 ## How It Works
 
-1. **Upload Data**: Provide annotated training data and test datasets
-2. **Configure**: Set target columns, accuracy threshold, and optimization parameters
-3. **Auto-Optimize**: The app generates prompts and iteratively improves them
-4. **Evaluate**: Once accuracy threshold is met, evaluate the test set
-5. **Export**: Download results for further analysis
-
-## Usage
-
-1. Enter your OpenAI API key in the sidebar
-2. Upload your datasets:
-   - **Training Data**: CSV/Excel file with ground truth labels
-   - **Test Data**: CSV/Excel file to be classified
-3. Configure parameters:
-   - Select target column (ground truth)
-   - Choose feature columns for classification
-   - Set accuracy threshold (default: 80%)
-   - Adjust max iterations and parallel workers
-4. Click "Begin Training & Optimization" to start the process
-
-## Data Format
-
-### Training Data
-- Must contain a target column with ground truth classifications
-- Should include feature columns relevant to classification
-- Supports CSV and Excel formats
-
-### Test Data
-- Should have the same feature columns as training data
-- No target column required
-- Results will include predicted classifications
-
-## Requirements
-
-- OpenAI API key with GPT-4o-mini access
-- Internet connection for API calls
+1. Start the FastAPI server:
+   ```bash
+   pip install -r requirements.txt
+   python backend/api.py
+   ```
+2. In the `frontend` directory install dependencies and run the React app:
+   ```bash
+   cd frontend
+   npm install
+   npm start
+   ```
+3. Use the web interface to upload data, configure parameters and trigger evaluation.
 
 ## Sample Data
 
-The application includes sample datasets for testing:
-- Challenging 5-class sentiment classification problem
-- 260 training samples, 150 test samples
-- Categories: frustrated, disappointed, concerned, satisfied, enthusiastic
+The `data/` folder includes a small sample dataset to try the app.
